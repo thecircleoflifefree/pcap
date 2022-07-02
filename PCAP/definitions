@@ -1,0 +1,7 @@
+
+INHERITANCE
+    In multilevel inheritance, features of the base class and the derived class are inherited into the new derived class.
+    Arrow goes from subclass to class(arrow goes up)
+
+UNDERSCORE
+https://docs.python.org/3/reference/lexical_analysis.html?#reserved-classes-of-identifiers
